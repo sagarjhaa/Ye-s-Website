@@ -1,0 +1,65 @@
+/*Header h1- index page*/
+
+#header1{
+	color:#1245a6;
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+.borderclass{
+	/*border:0.1em solid red;*/
+	margin-top: 1em;
+}
+
+img{
+	max-height: 100%;
+	max-width: 100%;
+	border:0.01em solid #FFF;
+	border-radius: 2em;
+}
+
+p{
+	text-align: justify;
+}
+
+.myfooter{
+	height: auto;
+	background-color: #337ab7;
+	border:0.01em solid black;
+	border-radius: 1em;
+}
+/*Papers page*/
+.removeborder{
+	border:0px solid;
+}
+
+.bg-light-gray {
+    /*background-color: #f7f7f7;*/
+    background-color: #F3F3F3;
+}
+
+.bg-darkest-gray {
+    background-color: #222;
+}
+
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    margin: 0 auto;
+    /*margin-left:10px;*/
+    border: 0.1em solid #FFF;
+}
+
+.team-member h4 {
+    /*margin-top: 25px;*/
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
+    padding-right:1em;
+}
